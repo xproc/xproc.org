@@ -9,4 +9,5 @@ when this repository is updated.
 To propose changes to the website, please create an issue or make a
 pull request.
 
-You can preview your changes by building the site locally.
+You can preview your changes by building the site locally as described
+[in the wiki](https://github.com/xproc/xproc.org/wiki/Building-the-site).
