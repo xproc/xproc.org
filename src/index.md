@@ -10,7 +10,7 @@ While this area is under construction, you may enjoy:
 
 * [The specifications](https://spec.xproc.org/) or
 * [The test suite](https://test-suite.xproc.org/) or
-* [Erik Siegel's book “XProc 3.0 Programmer Reference”](https://xmlpress.net/publications/xproc-3-0/)
+* [Erik Siegel’s book “XProc 3.0 Programmer Reference”](https://xmlpress.net/publications/xproc-3-0/)
 
 
 
