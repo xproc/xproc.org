@@ -142,7 +142,7 @@ fileTree(dir: "src").include("**/*.html").each { File hfile ->
   Task t = task "$taskName"(type: XMLCalabashTask, dependsOn: ['gitlog']) {
     inputs.files fileTree(dir: "includes")
     inputs.file relPath
-    input("source", file(relPath))
+    input("source", file(relPath).toURI().toASCIIString())
     output("result", file(outPath).toURI().toASCIIString())
     pipeline "tools/xpl/html.xpl"
   }
@@ -170,7 +170,7 @@ fileTree(dir: "src").include("**/*.xml").each { File xfile ->
   Task t = task "$taskName"(type: DocBookTask, dependsOn: ['gitlog']) {
     inputs.files fileTree(dir: "includes")
     inputs.file relPath
-    input("source", file(relPath))
+    input("source", file(relPath).toURI().toASCIIString())
     output("result", file(outPath).toURI().toASCIIString())
     option("style", file("tools/xsl/docbook.xsl"))
     pipeline "tools/xpl/docbook.xpl"
