@@ -128,7 +128,7 @@ fileTree(dir: "src").include("**/*.md").each { File mdfile ->
     inputs.file "tools/xsl/post.xsl"
     inputs.file "tools/xsl/pubdate.xsl"
     option("markdown", file(relPath))
-    output("result", file(outPath))
+    output("result", file(outPath).toURI().toASCIIString())
     pipeline "tools/xpl/markdown.xpl"
   }
   website.dependsOn taskName
@@ -143,7 +143,7 @@ fileTree(dir: "src").include("**/*.html").each { File hfile ->
     inputs.files fileTree(dir: "includes")
     inputs.file relPath
     input("source", file(relPath))
-    output("result", file(outPath))
+    output("result", file(outPath).toURI().toASCIIString())
     pipeline "tools/xpl/html.xpl"
   }
   website.dependsOn taskName
@@ -171,7 +171,7 @@ fileTree(dir: "src").include("**/*.xml").each { File xfile ->
     inputs.files fileTree(dir: "includes")
     inputs.file relPath
     input("source", file(relPath))
-    output("result", file(outPath))
+    output("result", file(outPath).toURI().toASCIIString())
     option("style", file("tools/xsl/docbook.xsl"))
     pipeline "tools/xpl/docbook.xpl"
   }
