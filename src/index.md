@@ -3,7 +3,7 @@
 <title>XProc 3.0 - Home</title>
 </pubmeta>
 
-<h2>XProc 3.0 - Home</h2>
+<h1>XProc 3.0 - Home</h1>
 
 XProc is an XML based programming language for processing documents in pipelines: chaining conversions and other steps together to achieve the desired results. The current version is 3.0. 
 
