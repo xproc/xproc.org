@@ -21,7 +21,7 @@ Introductory learning materials about XProc 3.0:
   * [An Introduction to XProc 3.0](https://www.xml.com/articles/2019/11/05/introduction-xproc-30/) (Erik Siegel on [xml.com](https://www.xml.com/))
   * [XProc 3.0 - Connecting steps using ports](https://www.xml.com/articles/2020/01/23/xproc-30-connecting-steps-using-ports/) (Erik Siegel on [xml.com](https://www.xml.com/))
 * Conference proceedings:
-  * [XProc 3.0](https://www.balisage.net/Proceedings/vol23/html/Walsh02/BalisageVol23-Walsh02.html) (Achim Berndzen and Norman Tovey-Walsh at [Balisage](https://www.balisage.net/) 2019)
+  * [XProc 3.0](https://www.balisage.net/Proceedings/vol23/html/Walsh02/BalisageVol23-Walsh02.html) (Norman Walsh and Achim Berndzen at [Balisage](https://www.balisage.net/) 2019)
 * Recorded conference talks:
   * [XProc 3.0: Ready or Not](https://youtu.be/Q42bhIbSYLk) (Norman Tovey-Walsh at [XML Prague](https://www.xmlprague.cz/) 2020)
 * Webinars:
