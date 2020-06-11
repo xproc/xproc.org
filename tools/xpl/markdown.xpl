@@ -192,7 +192,7 @@
     </p:otherwise>
   </p:choose>
 
-  <p:delete match="(//h:h1)[1]"/>
+  <!--<p:delete match="(//h:h1)[1]"/>-->
 
   <p:insert match="h:main" position="first-child">
     <p:input port="insertion">

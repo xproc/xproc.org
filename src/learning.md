@@ -3,9 +3,9 @@
 <title>XProc 3.0 - Learning</title>
 </pubmeta>
 
-<h2>XProc 3.0 - Learning</h2>
+<h1>XProc 3.0 - Learning</h1>
 
-<h3>Book</h3>
+<h2>Book</h2>
 
 <a href="https://xmlpress.net/publications/xproc-3-0/">
 <img src="img/book-front-page.png"/> 
@@ -13,7 +13,7 @@
 
 The *XProc 3.0 Programmer Reference* by Erik Siegel is available for sale [here](https://xmlpress.net/publications/xproc-3-0/).
 
-<h3>XProc 3.0 101</h3>
+<h2>XProc 3.0 101</h2>
 
 Introductory learning materials about XProc 3.0:
 
@@ -29,7 +29,7 @@ Introductory learning materials about XProc 3.0:
   * [XProc 3.0 101 - Part 2](https://youtu.be/q0JSy07O2_I) (Erik Siegel at [Markup UK](https://markupuk.org/) 2020)
   
   
-<h3>XProc 3.0 Advanced</h3>
+<h2>XProc 3.0 Advanced</h2>
 
 Information about the more advanced usage of XProc 3.0:
 
@@ -37,7 +37,7 @@ Information about the more advanced usage of XProc 3.0:
   * [Non-XML workflows with XProc 3.0](https://markupuk.org/2018/Markup-UK-2018-proceedings.pdf) (Achim Berndzen at [Markup UK](https://markupuk.org/) 2018) 
   
   
-<h3>XProc 3.0 History</h3>
+<h2>XProc 3.0 History</h2>
 
 Materials from XProc 3.0's illustrious history:
 

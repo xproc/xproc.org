@@ -3,15 +3,15 @@
 <title>XProc 3.0 - Processors</title>
 </pubmeta>
 
-<h2>XProc 3.0 - Processors</h2>
+<h1>XProc 3.0 - Processors</h1>
 
 There are two XProc 3.0 processors, currently (June 2020) still under development. Both also have an XProc 1.0 version available.
 
-<h3>MorganaXProc-III</h3>
+<h2>MorganaXProc-III</h2>
 
 The [MorganaXProc-III](https://www.xml-project.com/) processor is available as a beta release that implements most of the specification.
 
 
-<h3>XML Calabash</h3>
+<h2>XML Calabash</h2>
 
 The [XML Calabash](https://xmlcalabash.com/) processor is being developed.
