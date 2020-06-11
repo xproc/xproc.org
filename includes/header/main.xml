@@ -2,18 +2,17 @@
   <nav class="sidebar">
     <img src="img/logo.png" alt="[Logo]" id="mainlogo" />
     <ul>
-      <li><a href="/about.html">About</a></li>
-      <li><a href="/resources/">Resources</a></li>
-      <li><a href="/contact.html">Participate</a></li>
-      <li><a href="/resources/events.html">Events</a></li>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="https://spec.xproc.org//">Specification</a></li>
+      <li><a href="processors.html">Processors</a></li>
+      <li><a href="learning.html">Learning</a></li>
     </ul>
   </nav>
-  <h1><img src="img/logo-small.png" alt="[Logo]" id="smlogo"/>XProc.org</h1>
   <nav class="inline">
     <ul>
-      <li><a href="/about.html">About</a></li>
-      <li><a href="/resources/">Resources</a></li>
-      <li><a href="/contact.html">Participate</a></li>
-      <li><a href="/resources/events.html">Events</a></li>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="https://spec.xproc.org//">Specification</a></li>
+      <li><a href="processors.html">Processors</a></li>
+      <li><a href="learning.html">Learning</a></li>
   </ul></nav>
 </header>
