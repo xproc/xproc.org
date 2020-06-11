@@ -18,7 +18,7 @@ Various introductory articles and videos:
 * Webinars Markup UK 2020:
   * [XProc 3.0 101 - Part 1](https://youtu.be/g_ockOvU57U) (Erik Siegel)
   * [XProc 3.0 101 - Part 2](https://youtu.be/q0JSy07O2_I) (Erik Siegel)
-* Articles on the [xml.com website](https://www.xml.com/):
+* Articles on [xml.com](https://www.xml.com/):
   * [An Introduction to XProc 3.0](https://www.xml.com/articles/2019/11/05/introduction-xproc-30/) (Erik Siegel)
   * [XProc 3.0 - Connecting steps using ports](https://www.xml.com/articles/2020/01/23/xproc-30-connecting-steps-using-ports/) (Erik Siegel)
 * Recorded conference talks:

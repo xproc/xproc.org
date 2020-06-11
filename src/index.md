@@ -34,7 +34,7 @@ The XProc 3.0 specification is maintained by Achim Berndzen, Gerrit Imsieke, Eri
 * XProc aids in the housekeeping surrounding the processing, like inspecting directories, reading documents from zip files, writing things to disk, etc
 * There is software that can execute these pipelines, the so-called XProc processors.
 
-Now why and when would this be useful? In the physical world, pipelining and working in specialized steps is not unusual. Take for instance an oil refinery: it takes crude oil as its input and, through a series of steps and intermediate products, produces petrol/gasoline, kerosene, diesel, etc. Just one look shows that refineries take the word “pipeline” very literal…
+Now why and when would this be useful? In the physical world, pipelining and working in specialized steps is not unusual. Take for instance an oil refinery: it takes crude oil as its input and, through a series of steps and intermediate products, produces petrol/gasoline, kerosene, diesel, etc. Just one look shows that refineries take the word "pipeline" very literal...
 
 A classic from the IT world are of course UNIX pipelines. Some command produces some output and we do further processing (by, for instance, `grep` or `tail` or `head`) to get the information needed. The character used for chaining steps, `|`, is even called the "pipe" character!
 
