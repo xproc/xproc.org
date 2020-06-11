@@ -119,7 +119,7 @@ if ("true".equals(System.getenv("TRAVIS")) || "/Users/ndw".equals(System.getenv(
 
 fileTree(dir: "src").include("**/*.md").each { File mdfile ->
   def relPath = mdfile.getAbsolutePath().substring(cwd.length())
-  def outPath = relPath.replace("src/", "build/").replace(".md", ".html")
+  def outPath = relPath.replace("\\","/").replace("src/", "build/").replace(".md", ".html")
   def taskName = relPath.replace("\\","/").replace("/","_")
 
   Task t = task "$taskName"(type: XMLCalabashTask, dependsOn: ['gitlog']) {
@@ -136,7 +136,7 @@ fileTree(dir: "src").include("**/*.md").each { File mdfile ->
 
 fileTree(dir: "src").include("**/*.html").each { File hfile ->
   def relPath = hfile.getAbsolutePath().substring(cwd.length())
-  def outPath = relPath.replace("src/", "build/").replace(".md", ".html")
+  def outPath = relPath.replace("\\","/").replace("src/", "build/").replace(".md", ".html")
   def taskName = relPath.replace("\\","/").replace("/","_")
 
   Task t = task "$taskName"(type: XMLCalabashTask, dependsOn: ['gitlog']) {
@@ -151,7 +151,7 @@ fileTree(dir: "src").include("**/*.html").each { File hfile ->
 
 fileTree(dir: "src").include("**/*.xml").each { File xfile ->
   def relPath = xfile.getAbsolutePath().substring(cwd.length())
-  def outPath = relPath.replace("src/", "build/").replace(".xml", ".html")
+  def outPath = relPath.replace("\\","/").replace("src/", "build/").replace(".xml", ".html")
   def taskName = relPath.replace("\\","/").replace("/","_")
 
   def vocabulary = null
