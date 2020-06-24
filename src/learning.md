@@ -43,5 +43,5 @@ Materials from XProc 3.0's illustrious history:
 
 * Recorded conference talks:
   * [Excellent XProc 3.0](https://youtu.be/O51aE311BKU) (Erik Siegel at [XML Prague](https://www.xmlprague.cz/) 2019) 
-  * [XProc 3.0](https://youtu.be/flej2PNT7yY) (Gerrit Imsieke at [XML Prague](https://www.xmlprague.cz/) 2018)
+  * [XProc 3.0](https://youtu.be/flej2PNT7yY) (Achim Berndzen, Gerrit Imsieke and Norman Walsh at [XML Prague](https://www.xmlprague.cz/) 2018)
   * [The state of Xproc 3.0](https://youtu.be/75Tk4zHOSxw) (Norman Tovey-Walsh at [XML Prague](https://www.xmlprague.cz/) 2017)
