@@ -35,6 +35,10 @@ Information about the more advanced usage of XProc 3.0:
 
 * Conference proceedings
   * [Non-XML workflows with XProc 3.0](https://markupuk.org/2018/Markup-UK-2018-proceedings.pdf) (Achim Berndzen at [Markup UK](https://markupuk.org/) 2018) 
+* Webinars:
+    * [Working with JSON in XProc 3.0](https://youtu.be/9Cbs8H4Gl3o) (Achim Berndzen at [Markup UK](https://markupuk.org/) 2020)
+    * [Dealing with ZIP Documents in XProc 3.0](https://youtu.be/6yvO4GOue6k) (Erik Siegel at [Markup UK](https://markupuk.org/) 2020)
+    * [Text Documents in XProc 3.0](https://youtu.be/xwR8sH8vc8Q) (Achim Berndzen at [Markup UK](https://markupuk.org/) 2020)
   
   
 <h2>XProc 3.0 History</h2>
@@ -43,5 +47,5 @@ Materials from XProc 3.0's illustrious history:
 
 * Recorded conference talks:
   * [Excellent XProc 3.0](https://youtu.be/O51aE311BKU) (Erik Siegel at [XML Prague](https://www.xmlprague.cz/) 2019) 
-  * [XProc 3.0](https://youtu.be/flej2PNT7yY) (Gerrit Imsieke at [XML Prague](https://www.xmlprague.cz/) 2018)
-  * [The state of Xproc 3.0](https://youtu.be/75Tk4zHOSxw) (Norman Tovey-Walsh at [XML Prague](https://www.xmlprague.cz/) 2017)
+  * [XProc 3.0](https://youtu.be/flej2PNT7yY) (Achim Berndzen, Gerrit Imsieke and Norman Walsh at [XML Prague](https://www.xmlprague.cz/) 2018)
+  * [The state of XProc 3.0](https://youtu.be/75Tk4zHOSxw) (Norman Tovey-Walsh at [XML Prague](https://www.xmlprague.cz/) 2017)
