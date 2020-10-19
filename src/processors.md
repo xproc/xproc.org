@@ -5,7 +5,7 @@
 
 <h1>XProc 3.0 - Processors</h1>
 
-There are two XProc 3.0 processors, currently (June 2020) under development. Both also have an XProc 1.0 version available.
+There are two XProc 3.0 processors, currently (October 2020) under development. Both also have an XProc 1.0 version available.
 
 <h2>MorganaXProc-III</h2>
 

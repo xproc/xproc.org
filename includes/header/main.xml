@@ -3,6 +3,7 @@
     <img src="img/logo.png" alt="[Logo]" id="mainlogo" />
     <ul>
       <li><a href="index.html">Home</a></li>
+      <li><a href="introduction.html">Introduction</a></li>
       <li><a href="https://spec.xproc.org//">Specification</a></li>
       <li><a href="processors.html">Processors</a></li>
       <li><a href="learning.html">Learning</a></li>
@@ -11,6 +12,7 @@
   <nav class="inline">
     <ul>
       <li><a href="index.html">Home</a></li>
+      <li><a href="introduction.html">Introduction</a></li>
       <li><a href="https://spec.xproc.org//">Specification</a></li>
       <li><a href="processors.html">Processors</a></li>
       <li><a href="learning.html">Learning</a></li>
