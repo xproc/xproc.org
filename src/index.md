@@ -14,7 +14,7 @@ The following are important sources of information about XProc 3.0:
 * To wet your appetite, read the [XProc introduction](introduction.html)  or have a look at the [Introduction to XProc 3.0](https://www.xml.com/articles/2019/11/05/introduction-xproc-30/) article at the [xml.com website](https://www.xml.com/).
 * There's an *XProc 3.0 Programmer Reference* book, which you can order [here](https://xmlpress.net/publications/xproc-3-0/).
 * We have collected as many learning materials about XProc 3.0 as we could find [here](learning.html) (conference talks, webinars, articles, etc.). 
-* There is, of course, a [formal specification](https://spec.xproc.org/) of the XProc 3.0 language.
+* There are, of course, a [formal specifications](specifications.html) of the XProc 3.0 language.
 * To run XProc you need one of the [XProc processors](processors.html)
   * Conformance checking of these processors is done using the [XProc test suite](https://test-suite.xproc.org/) 
 * You can find XProc on GitHub at [https://github.com/xproc](https://github.com/xproc)
