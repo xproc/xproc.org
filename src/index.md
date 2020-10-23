@@ -16,7 +16,7 @@ The following are important sources of information about XProc 3.0:
 * We have collected as many learning materials about XProc 3.0 as we could find [here](learning.html) (conference talks, webinars, articles, etc.). 
 * There are, of course, a [formal specifications](specifications.html) of the XProc 3.0 language.
 * To run XProc you need one of the [XProc processors](processors.html)
-  * Conformance checking of these processors is done using the [XProc test suite](https://test-suite.xproc.org/) 
+  * Conformance checking of these processors is done using the [XProc test suite](test-suite.html) 
 * You can find XProc on GitHub at [https://github.com/xproc](https://github.com/xproc)
 * Join in or visit the archives of the [XProc mailing list](https://lists.w3.org/Archives/Public/xproc-dev/): `xproc-dev@w3.org`
 
