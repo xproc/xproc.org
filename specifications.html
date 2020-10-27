@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/tufte.css">
+  <link rel="stylesheet" href="css/xproc.css">
+  <link rel="stylesheet" href="https://use.typekit.net/zgg8zqr.css">
+  <script src="https://code.jquery.com/jquery-3.4.0.min.js" integrity="sha256-BJeo0qm959uMBGb65z40ejJYGSgR7REI4+CW1fNKwOg=" crossorigin="anonymous"></script>
+  <script src="js/mdecl.js"></script>
+  <link rel="icon" href="img/favicon.gif">
+<title>XProc 3.0 - Specifications</title></head>
+      <body><main><header>
+  <nav class="sidebar">
+    <img src="img/logo.png" alt="[Logo]" id="mainlogo">
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="introduction.html">Introduction</a></li>
+      <li><a href="specifications.html">Specification</a></li>
+      <li><a href="processors.html">Processors</a></li>
+      <li><a href="learning.html">Learning</a></li>
+      <li><a href="test-suite.html">Test suite</a></li>
+    </ul>
+  </nav>
+  <nav class="inline">
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="introduction.html">Introduction</a></li>
+      <li><a href="specifications.html">Specification</a></li>
+      <li><a href="processors.html">Processors</a></li>
+      <li><a href="learning.html">Learning</a></li>
+      <li><a href="test-suite.html">Test suite</a></li>
+  </ul></nav>
+</header><article>
+<h1>XProc 3.0 - Specifications</h1>
+<p>The following drafts are the most currently published specifications.</p>
+<h2>Core Specification</h2>
+<p>The core specification describes the syntax and semantics of the XProc&nbsp;3.0 language. Two versions are available:</p>
+<ul>
+<li><strong><a href="https://spec.xproc.org/lastcall-2020-08/head/xproc/">August 2020 "last call" draft</a></strong>: The editorial team believes that the core language specification is in "last call". We are unaware (at the time of publication) of any substantive issues. This draft is stable and will not be updated.</li>
+<li><strong><a href="https://spec.xproc.org/master/head/xproc/">Current editorial draft</a></strong>: The current editorial draft tracks changes made since the "last call" draft. For the most part, only editorial changes are expected. See the <a href="https://spec.xproc.org/master/head/xproc/#changelog">change log appendix</a> for a list of substantive changes. This draft is updated regularly as the editorial team address issues.</li>
+</ul>
+<p>If you find (either version of) the language specification unclear or believe
+that you've found an error or omission, please <a href="https://github.com/xproc/3.0-specification/issues">let us know</a>.</p>
+<h2>Standard Step Library</h2>
+<p>The standard step library specification describes the standard step vocabulary of the XProc&nbsp;3.0 language. Two versions are available:</p>
+<ul>
+<li><strong><a href="https://spec.xproc.org/lastcall-2020-08/head/steps/">August 2020 "last call" draft</a></strong>: The editorial team believes that the standard step library specification is in "last call". We are unaware (at the time of publication) of any substantive issues. This draft is stable and will not be updated.</li>
+<li><strong><a href="https://spec.xproc.org/master/head/steps/">Current editorial draft</a></strong>: The current editorial draft tracks changes made since the "last call" draft. For the most part, only editorial changes are expected. See the <a href="https://spec.xproc.org/master/head/steps/#changelog">change log appendix</a> for a list of substantive changes. This draft is updated regularly as the editorial team address issues.</li>
+</ul>
+<p>If you find (either version of) the standard step library specification unclear or believe
+that you've found an error or omission, please <a href="https://github.com/xproc/3.0-steps/issues">let us know</a>.</p>
+<h2>Additional specifications</h2>
+<p>Not all steps make sense in every environment where an XProc processor might run. For example, paged media steps are unlikely to be supported on a mobile device, and steps that operate on files might not make sense in an embedded environment.</p>
+<p>To simplify the task of identifying which steps an implementation supports, suites of steps considered "optional" are organized into separate specifications:</p>
+<ul>
+<li><strong><a href="https://spec.xproc.org/master/head/run/">Dynamic pipeline execution (<code>p:run</code>)</a></strong>: A step that runs pipelines constructed dynamically.</li>
+<li><strong><a href="https://spec.xproc.org/master/head/file/">File steps</a></strong>: Steps related to accessing files on a filesystem (rename, move, delete, etc.).</li>
+<li><strong><a href="https://spec.xproc.org/master/head/os/">Operating system steps</a></strong>: Steps related to accessing aspects of the underlying operating system (information about the system and the ability to execute commands on it).</li>
+<li><strong><a href="https://spec.xproc.org/master/head/mail/">Mail steps</a></strong>: Steps related to email.</li>
+<li><strong><a href="https://spec.xproc.org/master/head/paged-media/">Paged media steps</a></strong>: Steps related to producing paged media (for instance PDF files).</li>
+<li><strong><a href="https://spec.xproc.org/master/head/rdf/">RDF/Semantic web steps</a></strong>: Steps related to RDF and semantic web technologies.</li>
+<li><strong><a href="https://spec.xproc.org/master/head/text/"> Text steps</a></strong>: Steps related to accessing text files (for instance Markdown).</li>
+<li><strong><a href="https://spec.xproc.org/master/head/validation/"> Validation steps</a></strong>: Steps related to validation of XML.</li>
+<li><strong><a href="https://spec.xproc.org/master/head/xvrl/">Extensible Validation Report Language (XVRL)</a></strong>: XVRL is a unified vocabulary for validation reports (<a href="github.com/xproc/xvrl">github.com/xproc/xvrl</a>).</li>
+</ul>
+<p>It's likely that additional, optional libraries will be created. (Steps for linked data, for sending mail, for accessing ODBC services have all been suggested).</p>
+<p>If you find any of the step specifications unclear or believe that you've found an error or omission, please <a href="https://github.com/xproc/3.0-steps/issues">let us know</a>. Please also tell us if you have suggestions for new step libraries or if you think that an optional step should be required or vice versa.</p>
+</article><footer><div class="iblock">Published 23 Oct 2020</div></footer></main></body></html>
+      
