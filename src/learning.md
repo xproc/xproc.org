@@ -34,7 +34,7 @@ Introductory learning materials about XProc 3.0:
 Information about the more advanced usage of XProc 3.0:
 
 * Articles:
-  * [XProc 3.0 - Strategies for merging documents](https://www.xml.com/articles/2020/11/16/xproc-30-strategies-merging-documents/) (Erik&#160;Siegel on [xml.com](https://www.xml.com/))
+  * [XProc 3.0 - Strategies for merging documents](https://www.xml.com/articles/2020/11/16/xproc-30-strategies-merging-documents/) (Erik&#160;Siegel on [xml.com](https://www.xml.com/)) 
 * Conference proceedings
   * [Non-XML workflows with XProc 3.0](https://markupuk.org/2018/Markup-UK-2018-proceedings.pdf) (Achim&#160;Berndzen at [Markup UK](https://markupuk.org/) 2018) 
 * Webinars:
