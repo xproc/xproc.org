@@ -23,6 +23,7 @@ Introductory learning materials about XProc 3.0:
 * Conference proceedings:
   * [XProc 3.0](https://www.balisage.net/Proceedings/vol23/html/Walsh02/BalisageVol23-Walsh02.html) (Norman&#160;Tovey-Walsh and Achim&#160;Berndzen at [Balisage](https://www.balisage.net/) 2019)
 * Recorded conference talks:
+  * [Introduction to XProc 3.0](https://www.youtube.com/watch?v=P5fnBnJhUGA) ((Erik&#160;Siegel at [Declarative Amsterdam](https://declarative.amsterdam/) 2021)
   * [XProc 3.0: Ready or Not](https://youtu.be/Q42bhIbSYLk) (Norman&#160;Tovey-Walsh at [XML Prague](https://www.xmlprague.cz/) 2020)
 * Webinars:
   * [XProc 3.0 101 - Part 1](https://youtu.be/g_ockOvU57U) (Erik&#160;Siegel at [Markup UK](https://markupuk.org/) 2020)
