@@ -111,7 +111,7 @@ if (!cwd.endsWith("/")) {
 
 // Only attempt to exec the Perl script that gets the git log on
 // systems where we're confident it will succeed.
-if ("true".equals(System.getenv("TRAVIS")) || "/Users/ndw".equals(System.getenv("HOME"))) {
+if ("true".equals(System.getenv("CIRCLECI")) || "/Users/ndw".equals(System.getenv("HOME"))) {
   gitlog.dependsOn realgitlog
 } else {
   gitlog.dependsOn fakegitlog
