@@ -36,7 +36,7 @@ tar zxf /tmp/dist.$$.tar.gz
 rm /tmp/dist.$$.tar.gz
 
 git add --verbose .
-echo git commit -m "Successful CircleCI build $CIRCLE_BUILD_NUM"
-#git push -fq origin gh-pages > /dev/null
+cho git commit -m "Successful CircleCI build $CIRCLE_BUILD_NUM"
+git push -fq origin gh-pages > /dev/null
 
-echo "(Would have) Published website to gh-pages."
+echo "Published website to gh-pages."
