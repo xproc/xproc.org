@@ -1,2 +1,5 @@
+.circleci/
 .gradle/
 build/
+git-log-summary.xml
+
