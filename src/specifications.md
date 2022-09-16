@@ -11,8 +11,8 @@ The following drafts are the most currently published specifications.
 
 The core specification describes the syntax and semantics of the XProc&#160;3.0 language. Two versions are available:
 
-* **[August 2020 "last call" draft](https://spec.xproc.org/lastcall-2020-08/head/xproc/)**: The editorial team believes that the core language specification is in "last call". We are unaware (at the time of publication) of any substantive issues. This draft is stable and will not be updated.
-* **[Current editorial draft](https://spec.xproc.org/master/head/xproc/)**: The current editorial draft tracks changes made since the "last call" draft. For the most part, only editorial changes are expected. See the [change log appendix](https://spec.xproc.org/master/head/xproc/#changelog) for a list of substantive changes. This draft is updated regularly as the editorial team address issues.
+* **[Community Group Report 12 September 2022](https://spec.xproc.org/3.0/xproc/)**: The editorial team believes that the core language specification is final. We are unaware (at the time of publication) of any substantive issues. This report is stable and will not be updated.
+* **[Recent editorial draft](https://spec.xproc.org/master/head/xproc/)**: The current editorial draft for XProc 3.0+ tracks changes made since the community report. For the most part, only editorial changes are expected. See the [change log appendix](https://spec.xproc.org/master/head/xproc/#changelog) for a list of substantive changes. This draft is updated regularly as the editorial team address issues.
 
 If you find (either version of) the language specification unclear or believe
 that you've found an error or omission, please [let us know](https://github.com/xproc/3.0-specification/issues).
@@ -22,8 +22,8 @@ that you've found an error or omission, please [let us know](https://github.com/
 
 The standard step library specification describes the standard step vocabulary of the XProc&#160;3.0 language. Two versions are available:
 
-* **[August 2020 "last call" draft](https://spec.xproc.org/lastcall-2020-08/head/steps/)**: The editorial team believes that the standard step library specification is in "last call". We are unaware (at the time of publication) of any substantive issues. This draft is stable and will not be updated.
-* **[Current editorial draft](https://spec.xproc.org/master/head/steps/)**: The current editorial draft tracks changes made since the "last call" draft. For the most part, only editorial changes are expected. See the [change log appendix](https://spec.xproc.org/master/head/steps/#changelog) for a list of substantive changes. This draft is updated regularly as the editorial team address issues.
+* **[Community Group Report 12 September 2022](https://spec.xproc.org/3.0/steps/)**: The editorial team believes that the standard step library specification is final. We are unaware (at the time of publication) of any substantive issues. This report is stable and will not be updated.
+* **[Current editorial draft](https://spec.xproc.org/master/head/steps/)**: The current editorial draft for XProc 3.0+ tracks changes made since the community. For the most part, only editorial changes are expected. See the [change log appendix](https://spec.xproc.org/master/head/steps/#changelog) for a list of substantive changes. This draft is updated regularly as the editorial team address issues.
 
 If you find (either version of) the standard step library specification unclear or believe
 that you've found an error or omission, please [let us know](https://github.com/xproc/3.0-steps/issues).
