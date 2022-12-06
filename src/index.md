@@ -1,6 +1,7 @@
 <pubmeta>
 <header>main</header>
 <title>XProc 3.0 - Home</title>
+<head>homepage</head>
 </pubmeta>
 
 <h1>XProc 3.0</h1>
