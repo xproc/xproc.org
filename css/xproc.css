@@ -239,3 +239,33 @@ a:link {
   text-shadow: 0.03em 0 #ffffff, -0.03em 0 #ffffff, 0 0.03em #ffffff, 0 -0.03em #ffffff, 0.06em 0 #ffffff, -0.06em 0 #ffffff, 0.09em 0 #ffffff, -0.09em 0 #ffffff, 0.12em 0 #ffffff, -0.12em 0 #ffffff, 0.15em 0 #ffffff, -0.15em 0 #ffffff;
   background-position: 0% 93%, 100% 93%, 0% 93%;
 }
+
+/* ============================================================ */
+
+.toots {
+    margin-top: 2rem;
+    border-top: 3px solid black;
+    max-width: 55%;
+}
+
+.toot h2 {
+    font-size: 1.5rem;
+}
+
+.toot + .toot {
+    border-top: 1px dashed black;
+}
+
+.toot p {
+    padding-left: 3rem;
+    width: 100%;
+}
+    
+.toot h2 .toot-id {
+    display: none;
+    color: #aaaaaa;
+}
+
+.toot h2:hover .toot-id {
+    display: inline;
+}
