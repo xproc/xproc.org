@@ -75,6 +75,26 @@ task copy_img(type: Copy) {
   }
 }
 
+task copy_dashboard() {
+  doFirst {
+    mkdir("build/dashboard")
+  }
+
+  doLast {
+    copy {
+      from "dashboard/"
+      into "build/dashboard/"
+    }
+  }
+
+  doLast {
+    copy {
+      from "dashboard.json"
+      into "build/"
+    }
+  }
+}
+
 task rss(
   type: XMLCalabashTask,
   dependsOn: ['copy_css', 'copy_img', 'copy_js']
@@ -88,7 +108,7 @@ task rss(
   pipeline "${projectDir}/tools/xpl/rss.xpl"
 }
 
-task website(dependsOn: [ 'copy_css', 'copy_img', 'copy_js', 'rss' ]) {
+task website(dependsOn: [ 'copy_css', 'copy_img', 'copy_js', 'rss', 'copy_dashboard' ]) {
   doLast {
     println("Built website")
   }
