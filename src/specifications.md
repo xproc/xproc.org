@@ -1,13 +1,61 @@
 <pubmeta>
 <header>main</header>
-<title>XProc 3.0 - Specifications</title>
+<title>XProc Specifications</title>
 </pubmeta>
 
-<h1>XProc 3.0 - Specifications</h1>
+# XProc 3.1 — “Last Call” Specifications
+
+The current, official specifications are [_XProc 3.0_ and _XProc 3.0: Standard Step Library_](#current).
+
+XProc 3.1 is in “last call”. Version 3.1 fixes a few errata in the language
+specification and the standard step library. It also publishes a number of additional step
+libraries as finished specifications.
+
+Last call will last for at least a month (until 20 September 2024), after which
+time the final specifications will be published (unless additional last call
+periods are required).
+
+If you have questions or comments about the last call drafts, please
+[let us know](https://github.com/xproc/3.0-specification/issues).
+
+## Core specification
+
+The core specification describes the syntax and semantics of the XProc 3.1
+language. The last call draft is available:
+
+* **[XProc 3.1 last call, 20 August 2024](https://spec.xproc.org/lastcall-2024-08/head/xproc/)**: The
+editorial team believes that the core language specification is finished. We are
+unaware (at the time of publication) of any substantive issues. This draft is
+stable and will not be updated. Changes from 3.0 are summarized in
+[Appendix M](https://spec.xproc.org/lastcall-2024-08/head/xproc/#changelog).
+
+## Standard step libraries
+
+The XProc 3.1 step libraries are available in several different specifications. The
+last call drafts are stable and will not be updated.
+
+* **[XProc 3.1 Standard Step Library last call, 20 August 2024](https://spec.xproc.org/lastcall-2024-08/head/steps/)**: The editorial team believes that the standard step library specification is finished.
+We are unaware (at the time of publication) of any substantive issues.
+Changes from 3.0 are summarized in
+[Appendix F](https://spec.xproc.org/lastcall-2024-08/head/steps/#changelog).
+
+* **[Dynamic pipeline execution (`p:run`)](https://spec.xproc.org/lastcall-2024-08/head/run/)**: A step that runs pipelines constructed dynamically.
+* **[File steps](https://spec.xproc.org/lastcall-2024-08/head/file/)**: Steps related to accessing files on a filesystem (rename, move, delete, etc.).
+* **[Operating system steps](https://spec.xproc.org/lastcall-2024-08/head/os/)**: Steps related to accessing aspects of the underlying operating system (information about the system and the ability to execute commands on it).
+* **[Mail steps](https://spec.xproc.org/lastcall-2024-08/head/mail/)**: Steps related to email.
+* **[Paged media steps](https://spec.xproc.org/lastcall-2024-08/head/paged-media/)**: Steps related to producing paged media (for instance PDF files).
+* **[ Text steps](https://spec.xproc.org/lastcall-2024-08/head/text/)**: Steps related to accessing text files (for instance Markdown).
+* **[ Validation steps](https://spec.xproc.org/lastcall-2024-08/head/validation/)**: Steps related to validation of XML.
+* **[ Invisible XML](https://spec.xproc.org/lastcall-2024-08/head/ixml/)**: Steps related to processing [Invisible XML](https://invisiblexml.org/).
+
+---
+
+<a name="current"></a>
+# XProc 3.0 — Specifications
 
 The following drafts are the most currently published specifications.
 
-<h2>Core Specification</h2>
+## Core Specification
 
 The core specification describes the syntax and semantics of the XProc&#160;3.0 language. Two versions are available:
 
@@ -18,7 +66,7 @@ If you find (either version of) the language specification unclear or believe
 that you've found an error or omission, please [let us know](https://github.com/xproc/3.0-specification/issues).
 
 
-<h2>Standard Step Library</h2>
+## Standard Step Library
 
 The standard step library specification describes the standard step vocabulary of the XProc&#160;3.0 language. Two versions are available:
 
@@ -28,7 +76,7 @@ The standard step library specification describes the standard step vocabulary o
 If you find (either version of) the standard step library specification unclear or believe
 that you've found an error or omission, please [let us know](https://github.com/xproc/3.0-steps/issues).
 
-<h2>Additional specifications</h2>
+## Additional specifications
 
 Not all steps make sense in every environment where an XProc processor might run. For example, paged media steps are unlikely to be supported on a mobile device, and steps that operate on files might not make sense in an embedded environment.
 
