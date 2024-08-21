@@ -34,10 +34,15 @@ stable and will not be updated. Changes from 3.0 are summarized in
 The XProc 3.1 step libraries are available in several different specifications. The
 last call drafts are stable and will not be updated.
 
+All implementations must implement the standard step libarary:
+
 * **[XProc 3.1 Standard Step Library last call, 20 August 2024](https://spec.xproc.org/lastcall-2024-08/head/steps/)**: The editorial team believes that the standard step library specification is finished.
 We are unaware (at the time of publication) of any substantive issues.
 Changes from 3.0 are summarized in
 [Appendix F](https://spec.xproc.org/lastcall-2024-08/head/steps/#changelog).
+
+Support for these additional libraries is optional. Implementations are free to pick
+and choose which libraries they implement.
 
 * **[Dynamic pipeline execution (`p:run`)](https://spec.xproc.org/lastcall-2024-08/head/run/)**: A step that runs pipelines constructed dynamically.
 * **[File steps](https://spec.xproc.org/lastcall-2024-08/head/file/)**: Steps related to accessing files on a filesystem (rename, move, delete, etc.).
