@@ -1,6 +1,6 @@
 <pubmeta>
 <header>main</header>
-<title>XProc Specifications</title>
+<title>XProc - Specifications</title>
 </pubmeta>
 
 # XProc 3.1 — “Last Call” Specifications
