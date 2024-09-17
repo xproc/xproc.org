@@ -1,11 +1,11 @@
 <pubmeta>
 <header>main</header>
-<title>XProc 3.0 - Processors</title>
+<title>XProc - Processors</title>
 </pubmeta>
 
-<h1>XProc 3.0 - Processors</h1>
+<h1>XProc - Processors</h1>
 
-There are two XProc 3.0 processors, currently (September 2022) under development. Both also have an XProc 1.0 version available.
+There are two XProc processors for version 3.0. Both also have an XProc 1.0 version available.
 
 <h2>MorganaXProc-III</h2>
 

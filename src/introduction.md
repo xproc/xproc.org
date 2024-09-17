@@ -1,9 +1,9 @@
 <pubmeta>
 <header>main</header>
-<title>XProc 3.0 - Introduction</title>
+<title>XProc - Introduction</title>
 </pubmeta>
 
-<h1>XProc 3.0 - Introduction</h1>
+<h1>XProc - Introduction</h1>
 
 What is XProc? Let's try to answer this with an overview of its main characteristics:
 
@@ -28,4 +28,4 @@ So why would we do this in the world of information and document processing? One
 
 For straight transformation of XML data there are languages available, like XSLT and XQuery. But more often than not tasks are more complex than can be done in a single transformation: chaining, splitting and merging comes into play. Surrounding the transformations you need housekeeping, like where to read from or write to, inspect directories and zip files and write logs. Also from a software engineering point of view it is often desirable to work in smaller steps to get more legible and better maintainable code. This is where XProc comes into play: a single executable language to express this.
 
-A more thorough introduction can be found in the article *[Introduction to XProc 3.0](https://www.xml.com/articles/2019/11/05/introduction-xproc-30/)* at the [xml.com website](https://www.xml.com/). And: we have collected as many learning materials about XProc 3.0 as we could find [here](learning.html) (conference talks, webinars, articles, etc.). 
+A more thorough introduction can be found in the article *[Introduction to XProc 3.0](https://www.xml.com/articles/2019/11/05/introduction-xproc-30/)* at the [xml.com website](https://www.xml.com/). And: we have collected as many learning materials about XProc as we could find [here](learning.html) (conference talks, webinars, articles, etc.). 

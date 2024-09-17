@@ -1,9 +1,11 @@
 <pubmeta>
 <header>main</header>
-<title>XProc 3.0 - Learning</title>
+<title>XProc - Learning</title>
 </pubmeta>
 
-<h1>XProc 3.0 - Learning</h1>
+<h1>XProc - Learning</h1>
+
+We have collected as many learning materials as possible about XProc. This is all about version 3.0 (and also usable for 3.1).
 
 <h2>Book</h2>
 
@@ -13,9 +15,9 @@
 
 The *XProc 3.0 Programmer Reference* by Erik Siegel is available for sale [here](https://xmlpress.net/publications/xproc-3-0/).
 
-<h2>XProc 3.0 101</h2>
+<h2>XProc 101</h2>
 
-Introductory learning materials about XProc 3.0:
+Introductory learning materials about XProc:
 
 * Articles:
   * [An Introduction to XProc 3.0](https://www.xml.com/articles/2019/11/05/introduction-xproc-30/) (Erik&#160;Siegel on [xml.com](https://www.xml.com/))
@@ -32,9 +34,9 @@ Introductory learning materials about XProc 3.0:
   * [XProc 3.0 101 - Part 2](https://youtu.be/q0JSy07O2_I) (Erik&#160;Siegel at [Markup UK](https://markupuk.org/) 2020)
   
   
-<h2>XProc 3.0 Advanced</h2>
+<h2>XProc Advanced</h2>
 
-Information about the more advanced usage of XProc 3.0:
+Information about the more advanced usage of XProc:
 
 * Articles:
   * [XProc 3.0 - Strategies for merging documents](https://www.xml.com/articles/2020/11/16/xproc-30-strategies-merging-documents/) (Erik&#160;Siegel on [xml.com](https://www.xml.com/)) 
@@ -46,9 +48,9 @@ Information about the more advanced usage of XProc 3.0:
     * [Text Documents in XProc 3.0](https://youtu.be/xwR8sH8vc8Q) (Achim&#160;Berndzen at [Markup UK](https://markupuk.org/) 2020)
   
   
-<h2>XProc 3.0 History</h2>
+<h2>XProc History</h2>
 
-Materials from XProc 3.0's illustrious history:
+Materials from XProc (3.0) illustrious history:
 
 * Recorded conference talks:
   * [Excellent XProc 3.0](https://youtu.be/O51aE311BKU) (Erik&#160;Siegel at [XML Prague](https://www.xmlprague.cz/) 2019) 

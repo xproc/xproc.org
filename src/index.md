@@ -1,12 +1,14 @@
 <pubmeta>
 <header>main</header>
-<title>XProc 3.0 - Home</title>
+<title>XProc - Home</title>
 <head>homepage</head>
 </pubmeta>
 
-<h1>XProc 3.0</h1>
+<h1>XProc</h1>
 
-XProc is an XML based programming language for processing documents in pipelines: chaining conversions and other steps together to achieve the desired results. The current version is 3.0. 
+XProc is an XML based programming language for processing documents in pipelines: chaining conversions and other steps together to achieve the desired results. This site is dedicated to XProc version 3.0 and higher. 
+
+The current stable version of the Xproc specification is [3.0](https://xproc.org/specifications.html#current). Version 3.1, a relatively minor update, is currently (2024) under development.
 
 XProc has been around, in its 1.0 version, since 2010. All information about this older version can be found [here](https://archive.xproc.org).
 
@@ -21,6 +23,6 @@ The following are important sources of information about XProc 3.0:
 * You can find XProc on GitHub at [https://github.com/xproc](https://github.com/xproc)
 * Join in or visit the archives of the [XProc mailing list](https://lists.w3.org/Archives/Public/xproc-dev/): `xproc-dev@w3.org`
 
-The XProc 3.0 specification is maintained by Achim&#160;Berndzen, Gerrit&#160;Imsieke, Erik&#160;Siegel and Norman&#160;Tovey-Walsh. 
+The XProc specification is maintained by Achim&#160;Berndzen, Gerrit&#160;Imsieke, Erik&#160;Siegel and Norman&#160;Tovey-Walsh. 
  
 
