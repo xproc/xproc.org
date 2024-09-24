@@ -15,6 +15,8 @@ We have collected as many learning materials as possible about XProc. This is al
 
 The *XProc 3.0 Programmer Reference* by Erik Siegel is available for sale [here](https://xmlpress.net/publications/xproc-3-0/).
 
+[XProcRef](https://xprocref.org/index.html) is an accompanying support website with user/programmer oriented reference information about the built-in steps.
+
 <h2>XProc 101</h2>
 
 Introductory learning materials about XProc:
