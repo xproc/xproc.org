@@ -91,6 +91,7 @@ To simplify the task of identifying which steps an implementation supports, suit
 * **[File steps](https://spec.xproc.org/master/head/file/)**: Steps related to accessing files on a filesystem (rename, move, delete, etc.).
 * **[Operating system steps](https://spec.xproc.org/master/head/os/)**: Steps related to accessing aspects of the underlying operating system (information about the system and the ability to execute commands on it).
 * **[Mail steps](https://spec.xproc.org/master/head/mail/)**: Steps related to email.
+* **[Message step](https://spec.xproc.org/master/head/message/)**: Conditional message step.
 * **[Paged media steps](https://spec.xproc.org/master/head/paged-media/)**: Steps related to producing paged media (for instance PDF files).
 * **[RDF/Semantic web steps](https://spec.xproc.org/master/head/rdf/)**: Steps related to RDF and semantic web technologies.
 * **[ Text steps](https://spec.xproc.org/master/head/text/)**: Steps related to accessing text files (for instance Markdown).
