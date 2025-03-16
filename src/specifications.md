@@ -14,7 +14,7 @@ libraries as finished specifications.
 Our first last call from August, 2024 revealed a number of small issues, so we
 have decided to publish a second last call.
 
-This last call will last for at least a month (until 18 April 2024), but most likelu
+This last call will last for at least a month (until 18 April 2024), but most likely
 until [MarkupUK 2025](https://markupuk.org/) after which
 time the final specifications will be published (unless additional last call
 periods are required).
