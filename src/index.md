@@ -23,6 +23,6 @@ The following are important sources of information about XProc 3.0:
 * You can find XProc on GitHub at [https://github.com/xproc](https://github.com/xproc)
 * Join in or visit the archives of the [XProc mailing list](https://lists.w3.org/Archives/Public/xproc-dev/): `xproc-dev@w3.org`
 
-The XProc specification is maintained by Achim&#160;Berndzen, Gerrit&#160;Imsieke, Erik&#160;Siegel and Norman&#160;Tovey-Walsh. 
+The XProc specification is maintained by Achim&#160;Berndzen, Gerrit&#160;Imsieke, Erik&#160;Siegel and Norm&#160;Tovey-Walsh. 
  
 

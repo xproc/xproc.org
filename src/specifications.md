@@ -101,7 +101,7 @@ To simplify the task of identifying which steps an implementation supports, suit
 * **[ Text steps](https://spec.xproc.org/master/head/text/)**: Steps related to accessing text files (for instance Markdown).
 * **[ Validation steps](https://spec.xproc.org/master/head/validation/)**: Steps related to validation of XML.
 * **[ Invisible XML](https://spec.xproc.org/master/head/ixml/)**: Steps related to processing [Invisible XML](https://invisiblexml.org/).
-* **[Extensible Validation Report Language (XVRL)](https://spec.xproc.org/master/head/xvrl/)**: XVRL is a unified vocabulary for validation reports ([github.com/xproc/xvrl](github.com/xproc/xvrl)).
+* **[Extensible Validation Report Language (XVRL)](https://spec.xproc.org/master/head/xvrl/)**: XVRL is a unified vocabulary for validation reports ([github.com/xproc/xvrl](https://github.com/xproc/xvrl)).
 
 
 
