@@ -14,4 +14,6 @@ The [MorganaXProc-IIIse](https://www.xml-project.com/) processor is available. I
 
 <h2>XML Calabash</h2>
 
-The [XML Calabash](https://xmlcalabash.com/) processor is being developed.
+The [XML Calabash](https://xmlcalabash.com/) processor is available. It implements all of
+the required features of the core language and all of the standard steps. It also implements
+a variety of extension steps.

@@ -3,6 +3,7 @@
 <title>XProc - Specifications</title>
 </pubmeta>
 
+<a name="current"></a>
 # XProc 3.1 Specifications
 
 The current version of XProc is XProc 3.1. Version 3.1 fixes a few errata in the
@@ -47,7 +48,6 @@ and choose which libraries they implement.
 
 ---
 
-<a name="current"></a>
 # XProc 3.0 — Specifications
 
 The previous version of XProc was XProc 3.0.
